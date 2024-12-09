@@ -1,0 +1,501 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1.73377E+12,4065,Knektz,200,OK,Thread Group 1-2,text,TRUE,,9560,238,10,10,https://www.knektz.com/,682,0,375
+1.73377E+12,2869,Knektz,200,OK,Thread Group 1-8,text,TRUE,,9560,238,10,10,https://www.knektz.com/,815,0,406
+1.73377E+12,683,Knektz-0,301,Moved Permanently,Thread Group 1-2,text,TRUE,,1022,119,10,10,http://www.knektz.com/,682,0,375
+1.73377E+12,816,Knektz-0,301,Moved Permanently,Thread Group 1-8,text,TRUE,,1022,119,10,10,http://www.knektz.com/,815,0,406
+1.73377E+12,3382,Knektz-1,200,OK,Thread Group 1-2,text,TRUE,,8538,119,10,10,https://www.knektz.com/,3381,0,1168
+1.73377E+12,2053,Knektz-1,200,OK,Thread Group 1-8,text,TRUE,,8538,119,10,10,https://www.knektz.com/,2051,0,623
+1.73377E+12,3868,Knektz,200,OK,Thread Group 1-3,text,TRUE,,9560,238,10,10,https://www.knektz.com/,593,0,297
+1.73377E+12,593,Knektz-0,301,Moved Permanently,Thread Group 1-3,text,TRUE,,1022,119,10,10,http://www.knektz.com/,593,0,297
+1.73377E+12,3274,Knektz-1,200,OK,Thread Group 1-3,text,TRUE,,8538,119,10,10,https://www.knektz.com/,3272,0,1058
+1.73377E+12,2471,Knektz,200,OK,Thread Group 1-10,text,TRUE,,9560,238,10,10,https://www.knektz.com/,623,0,315
+1.73377E+12,623,Knektz-0,301,Moved Permanently,Thread Group 1-10,text,TRUE,,1022,119,10,10,http://www.knektz.com/,623,0,315
+1.73377E+12,1848,Knektz-1,200,OK,Thread Group 1-10,text,TRUE,,8538,119,10,10,https://www.knektz.com/,1847,0,622
+1.73377E+12,3271,Knektz,200,OK,Thread Group 1-6,text,TRUE,,9560,238,10,10,https://www.knektz.com/,806,0,366
+1.73377E+12,806,Knektz-0,301,Moved Permanently,Thread Group 1-6,text,TRUE,,1022,119,10,10,http://www.knektz.com/,806,0,366
+1.73377E+12,2465,Knektz-1,200,OK,Thread Group 1-6,text,TRUE,,8538,119,10,10,https://www.knektz.com/,2464,0,715
+1.73377E+12,3076,Knektz,200,OK,Thread Group 1-7,text,TRUE,,9560,238,10,10,https://www.knektz.com/,814,0,407
+1.73377E+12,815,Knektz-0,301,Moved Permanently,Thread Group 1-7,text,TRUE,,1022,119,10,10,http://www.knektz.com/,814,0,407
+1.73377E+12,2261,Knektz-1,200,OK,Thread Group 1-7,text,TRUE,,8538,119,10,10,https://www.knektz.com/,2256,0,620
+1.73377E+12,4263,Knektz,200,OK,Thread Group 1-1,text,TRUE,,9560,238,10,10,https://www.knektz.com/,614,0,303
+1.73377E+12,618,Knektz-0,301,Moved Permanently,Thread Group 1-1,text,TRUE,,1022,119,10,10,http://www.knektz.com/,614,0,303
+1.73377E+12,3644,Knektz-1,200,OK,Thread Group 1-1,text,TRUE,,8538,119,10,10,https://www.knektz.com/,3642,0,1365
+1.73377E+12,2733,Knektz,200,OK,Thread Group 1-9,text,TRUE,,9560,238,10,10,https://www.knektz.com/,769,0,414
+1.73377E+12,769,Knektz-0,301,Moved Permanently,Thread Group 1-9,text,TRUE,,1022,119,10,10,http://www.knektz.com/,769,0,414
+1.73377E+12,1963,Knektz-1,200,OK,Thread Group 1-9,text,TRUE,,8538,119,10,10,https://www.knektz.com/,1963,0,674
+1.73377E+12,3734,Knektz,200,OK,Thread Group 1-4,text,TRUE,,9560,238,10,10,https://www.knektz.com/,591,0,283
+1.73377E+12,591,Knektz-0,301,Moved Permanently,Thread Group 1-4,text,TRUE,,1022,119,10,10,http://www.knektz.com/,591,0,283
+1.73377E+12,3143,Knektz-1,200,OK,Thread Group 1-4,text,TRUE,,8538,119,10,10,https://www.knektz.com/,3141,0,862
+1.73377E+12,618,Healthcare,200,OK,Thread Group 1-2,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,617,0,253
+1.73377E+12,613,Healthcare,200,OK,Thread Group 1-7,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,613,0,247
+1.73377E+12,619,Healthcare,200,OK,Thread Group 1-3,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,619,0,263
+1.73377E+12,619,Healthcare,200,OK,Thread Group 1-10,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,619,0,263
+1.73377E+12,617,Healthcare,200,OK,Thread Group 1-6,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,617,0,261
+1.73377E+12,619,Healthcare,200,OK,Thread Group 1-8,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,619,0,268
+1.73377E+12,802,Healthcare,200,OK,Thread Group 1-4,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,802,0,341
+1.73377E+12,809,Healthcare,200,OK,Thread Group 1-1,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,807,0,345
+1.73377E+12,809,Healthcare,200,OK,Thread Group 1-9,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,808,0,344
+1.73377E+12,825,QA,200,OK,Thread Group 1-7,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,825,0,397
+1.73377E+12,828,QA,200,OK,Thread Group 1-3,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,828,0,397
+1.73377E+12,828,QA,200,OK,Thread Group 1-6,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,828,0,397
+1.73377E+12,830,QA,200,OK,Thread Group 1-10,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,829,0,397
+1.73377E+12,586,QA,200,OK,Thread Group 1-4,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,586,0,255
+1.73377E+12,583,QA,200,OK,Thread Group 1-9,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,582,0,251
+1.73377E+12,587,QA,200,OK,Thread Group 1-1,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,587,0,251
+1.73377E+12,1115,QA,200,OK,Thread Group 1-2,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,829,0,398
+1.73377E+12,1114,QA,200,OK,Thread Group 1-8,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,824,0,397
+1.73377E+12,5204,Knektz,200,OK,Thread Group 1-5,text,TRUE,,9560,238,10,10,https://www.knektz.com/,577,0,288
+1.73377E+12,577,Knektz-0,301,Moved Permanently,Thread Group 1-5,text,TRUE,,1022,119,10,10,http://www.knektz.com/,577,0,288
+1.73377E+12,4627,Knektz-1,200,OK,Thread Group 1-5,text,TRUE,,8538,119,10,10,https://www.knektz.com/,4346,0,845
+1.73377E+12,798,Knektz,200,OK,Thread Group 1-10,text,TRUE,,9382,238,10,10,https://www.knektz.com/,307,0,0
+1.73377E+12,307,Knektz-0,301,Moved Permanently,Thread Group 1-10,text,TRUE,,1022,119,10,10,http://www.knektz.com/,307,0,0
+1.73377E+12,491,Knektz-1,200,OK,Thread Group 1-10,text,TRUE,,8360,119,10,10,https://www.knektz.com/,490,0,0
+1.73377E+12,614,Healthcare,200,OK,Thread Group 1-5,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,614,0,305
+1.73377E+12,901,Knektz,200,OK,Thread Group 1-6,text,TRUE,,9382,238,10,10,https://www.knektz.com/,286,0,0
+1.73377E+12,286,Knektz-0,301,Moved Permanently,Thread Group 1-6,text,TRUE,,1022,119,10,10,http://www.knektz.com/,286,0,0
+1.73377E+12,615,Knektz-1,200,OK,Thread Group 1-6,text,TRUE,,8360,119,10,10,https://www.knektz.com/,614,0,0
+1.73377E+12,616,Knektz,200,OK,Thread Group 1-8,text,TRUE,,9382,238,10,10,https://www.knektz.com/,306,0,0
+1.73377E+12,306,Knektz-0,301,Moved Permanently,Thread Group 1-8,text,TRUE,,1022,119,10,10,http://www.knektz.com/,306,0,0
+1.73377E+12,309,Knektz-1,200,OK,Thread Group 1-8,text,TRUE,,8360,119,10,10,https://www.knektz.com/,308,0,0
+1.73377E+12,904,Knektz,200,OK,Thread Group 1-3,text,TRUE,,9382,238,10,10,https://www.knektz.com/,308,0,0
+1.73377E+12,308,Knektz-0,301,Moved Permanently,Thread Group 1-3,text,TRUE,,1022,119,10,10,http://www.knektz.com/,308,0,0
+1.73377E+12,596,Knektz-1,200,OK,Thread Group 1-3,text,TRUE,,8360,119,10,10,https://www.knektz.com/,595,0,0
+1.73377E+12,941,Knektz,200,OK,Thread Group 1-7,text,TRUE,,9382,238,10,10,https://www.knektz.com/,289,0,0
+1.73377E+12,289,Knektz-0,301,Moved Permanently,Thread Group 1-7,text,TRUE,,1022,119,10,10,http://www.knektz.com/,289,0,0
+1.73377E+12,652,Knektz-1,200,OK,Thread Group 1-7,text,TRUE,,8360,119,10,10,https://www.knektz.com/,651,0,0
+1.73377E+12,946,Knektz,200,OK,Thread Group 1-9,text,TRUE,,9382,238,10,10,https://www.knektz.com/,347,0,0
+1.73377E+12,347,Knektz-0,301,Moved Permanently,Thread Group 1-9,text,TRUE,,1022,119,10,10,http://www.knektz.com/,347,0,0
+1.73377E+12,599,Knektz-1,200,OK,Thread Group 1-9,text,TRUE,,8360,119,10,10,https://www.knektz.com/,597,0,0
+1.73377E+12,306,Healthcare,200,OK,Thread Group 1-10,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,306,0,0
+1.73377E+12,1096,Knektz,200,OK,Thread Group 1-1,text,TRUE,,9382,238,10,10,https://www.knektz.com/,582,0,297
+1.73377E+12,582,Knektz-0,301,Moved Permanently,Thread Group 1-1,text,TRUE,,1022,119,10,10,http://www.knektz.com/,582,0,297
+1.73377E+12,514,Knektz-1,200,OK,Thread Group 1-1,text,TRUE,,8360,119,10,10,https://www.knektz.com/,512,0,0
+1.73377E+12,310,Healthcare,200,OK,Thread Group 1-6,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,310,0,0
+1.73377E+12,307,Healthcare,200,OK,Thread Group 1-3,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,307,0,0
+1.73377E+12,926,Knektz,200,OK,Thread Group 1-2,text,TRUE,,9382,238,10,10,https://www.knektz.com/,614,0,306
+1.73377E+12,274,Healthcare,200,OK,Thread Group 1-7,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,274,0,0
+1.73377E+12,615,Knektz-0,301,Moved Permanently,Thread Group 1-2,text,TRUE,,1022,119,10,10,http://www.knektz.com/,614,0,306
+1.73377E+12,311,Knektz-1,200,OK,Thread Group 1-2,text,TRUE,,8360,119,10,10,https://www.knektz.com/,310,0,0
+1.73377E+12,310,Healthcare,200,OK,Thread Group 1-8,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,310,0,0
+1.73377E+12,267,Healthcare,200,OK,Thread Group 1-9,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,267,0,0
+1.73377E+12,307,Healthcare,200,OK,Thread Group 1-1,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,307,0,0
+1.73377E+12,308,QA,200,OK,Thread Group 1-10,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,308,0,0
+1.73377E+12,304,QA,200,OK,Thread Group 1-3,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,304,0,0
+1.73377E+12,305,QA,200,OK,Thread Group 1-6,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,305,0,0
+1.73377E+12,620,QA,200,OK,Thread Group 1-5,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,620,0,309
+1.73377E+12,303,QA,200,OK,Thread Group 1-9,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,302,0,0
+1.73377E+12,335,Healthcare,200,OK,Thread Group 1-2,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,335,0,0
+1.73377E+12,335,QA,200,OK,Thread Group 1-7,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,335,0,0
+1.73377E+12,338,QA,200,OK,Thread Group 1-8,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,338,0,0
+1.73377E+12,1569,Knektz,200,OK,Thread Group 1-4,text,TRUE,,9382,238,10,10,https://www.knektz.com/,281,0,0
+1.73377E+12,281,Knektz-0,301,Moved Permanently,Thread Group 1-4,text,TRUE,,1022,119,10,10,http://www.knektz.com/,281,0,0
+1.73377E+12,1288,Knektz-1,200,OK,Thread Group 1-4,text,TRUE,,8360,119,10,10,https://www.knektz.com/,617,0,0
+1.73377E+12,305,QA,200,OK,Thread Group 1-1,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,305,0,0
+1.73377E+12,274,QA,200,OK,Thread Group 1-2,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,274,0,0
+1.73377E+12,263,Healthcare,200,OK,Thread Group 1-4,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,263,0,0
+1.73377E+12,582,Knektz,200,OK,Thread Group 1-10,text,TRUE,,9382,238,10,10,https://www.knektz.com/,305,0,0
+1.73377E+12,305,Knektz-0,301,Moved Permanently,Thread Group 1-10,text,TRUE,,1022,119,10,10,http://www.knektz.com/,305,0,0
+1.73377E+12,277,Knektz-1,200,OK,Thread Group 1-10,text,TRUE,,8360,119,10,10,https://www.knektz.com/,275,0,0
+1.73377E+12,545,Knektz,200,OK,Thread Group 1-3,text,TRUE,,9382,238,10,10,https://www.knektz.com/,278,0,0
+1.73377E+12,278,Knektz-0,301,Moved Permanently,Thread Group 1-3,text,TRUE,,1022,119,10,10,http://www.knektz.com/,278,0,0
+1.73377E+12,267,Knektz-1,200,OK,Thread Group 1-3,text,TRUE,,8360,119,10,10,https://www.knektz.com/,266,0,0
+1.73377E+12,583,Knektz,200,OK,Thread Group 1-7,text,TRUE,,9382,238,10,10,https://www.knektz.com/,273,0,0
+1.73377E+12,273,Knektz-0,301,Moved Permanently,Thread Group 1-7,text,TRUE,,1022,119,10,10,http://www.knektz.com/,273,0,0
+1.73377E+12,309,Knektz-1,200,OK,Thread Group 1-7,text,TRUE,,8360,119,10,10,https://www.knektz.com/,306,0,0
+1.73377E+12,294,QA,200,OK,Thread Group 1-4,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,294,0,0
+1.73377E+12,618,Knektz,200,OK,Thread Group 1-6,text,TRUE,,9382,238,10,10,https://www.knektz.com/,306,0,0
+1.73377E+12,306,Knektz-0,301,Moved Permanently,Thread Group 1-6,text,TRUE,,1022,119,10,10,http://www.knektz.com/,306,0,0
+1.73377E+12,312,Knektz-1,200,OK,Thread Group 1-6,text,TRUE,,8360,119,10,10,https://www.knektz.com/,311,0,0
+1.73377E+12,617,Knektz,200,OK,Thread Group 1-9,text,TRUE,,9382,238,10,10,https://www.knektz.com/,298,0,0
+1.73377E+12,298,Knektz-0,301,Moved Permanently,Thread Group 1-9,text,TRUE,,1022,119,10,10,http://www.knektz.com/,298,0,0
+1.73377E+12,319,Knektz-1,200,OK,Thread Group 1-9,text,TRUE,,8360,119,10,10,https://www.knektz.com/,318,0,0
+1.73377E+12,667,Knektz,200,OK,Thread Group 1-8,text,TRUE,,9382,238,10,10,https://www.knektz.com/,270,0,0
+1.73377E+12,270,Knektz-0,301,Moved Permanently,Thread Group 1-8,text,TRUE,,1022,119,10,10,http://www.knektz.com/,270,0,0
+1.73377E+12,397,Knektz-1,200,OK,Thread Group 1-8,text,TRUE,,8360,119,10,10,https://www.knektz.com/,396,0,0
+1.73377E+12,339,Healthcare,200,OK,Thread Group 1-10,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,339,0,0
+1.73377E+12,278,Healthcare,200,OK,Thread Group 1-3,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,278,0,0
+1.73377E+12,273,Healthcare,200,OK,Thread Group 1-7,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,272,0,0
+1.73377E+12,270,Healthcare,200,OK,Thread Group 1-9,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,270,0,0
+1.73377E+12,280,Healthcare,200,OK,Thread Group 1-6,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,280,0,0
+1.73377E+12,593,Knektz,200,OK,Thread Group 1-2,text,TRUE,,9382,238,10,10,https://www.knektz.com/,292,0,0
+1.73377E+12,292,Knektz-0,301,Moved Permanently,Thread Group 1-2,text,TRUE,,1022,119,10,10,http://www.knektz.com/,292,0,0
+1.73377E+12,301,Knektz-1,200,OK,Thread Group 1-2,text,TRUE,,8360,119,10,10,https://www.knektz.com/,300,0,0
+1.73377E+12,283,Healthcare,200,OK,Thread Group 1-8,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,283,0,0
+1.73377E+12,333,QA,200,OK,Thread Group 1-3,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,333,0,0
+1.73377E+12,262,QA,200,OK,Thread Group 1-9,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,262,0,0
+1.73377E+12,339,QA,200,OK,Thread Group 1-10,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,339,0,0
+1.73377E+12,318,QA,200,OK,Thread Group 1-7,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,318,0,0
+1.73377E+12,309,Healthcare,200,OK,Thread Group 1-2,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,309,0,0
+1.73377E+12,598,Knektz,200,OK,Thread Group 1-4,text,TRUE,,9382,238,10,10,https://www.knektz.com/,283,0,0
+1.73377E+12,283,Knektz-0,301,Moved Permanently,Thread Group 1-4,text,TRUE,,1022,119,10,10,http://www.knektz.com/,283,0,0
+1.73377E+12,315,Knektz-1,200,OK,Thread Group 1-4,text,TRUE,,8360,119,10,10,https://www.knektz.com/,314,0,0
+1.73377E+12,334,QA,200,OK,Thread Group 1-6,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,333,0,0
+1.73377E+12,254,QA,200,OK,Thread Group 1-8,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,254,0,0
+1.73377E+12,1211,Knektz,200,OK,Thread Group 1-1,text,TRUE,,9382,238,10,10,https://www.knektz.com/,271,0,0
+1.73377E+12,271,Knektz-0,301,Moved Permanently,Thread Group 1-1,text,TRUE,,1022,119,10,10,http://www.knektz.com/,271,0,0
+1.73377E+12,940,Knektz-1,200,OK,Thread Group 1-1,text,TRUE,,8360,119,10,10,https://www.knektz.com/,305,0,0
+1.73377E+12,282,Healthcare,200,OK,Thread Group 1-4,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,282,0,0
+1.73377E+12,291,QA,200,OK,Thread Group 1-2,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,291,0,0
+1.73377E+12,258,Healthcare,200,OK,Thread Group 1-1,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,257,0,0
+1.73377E+12,573,Knektz,200,OK,Thread Group 1-3,text,TRUE,,9382,238,10,10,https://www.knektz.com/,291,0,0
+1.73377E+12,291,Knektz-0,301,Moved Permanently,Thread Group 1-3,text,TRUE,,1022,119,10,10,http://www.knektz.com/,291,0,0
+1.73377E+12,282,Knektz-1,200,OK,Thread Group 1-3,text,TRUE,,8360,119,10,10,https://www.knektz.com/,281,0,0
+1.73377E+12,572,Knektz,200,OK,Thread Group 1-10,text,TRUE,,9382,238,10,10,https://www.knektz.com/,289,0,0
+1.73377E+12,289,Knektz-0,301,Moved Permanently,Thread Group 1-10,text,TRUE,,1022,119,10,10,http://www.knektz.com/,289,0,0
+1.73377E+12,283,Knektz-1,200,OK,Thread Group 1-10,text,TRUE,,8360,119,10,10,https://www.knektz.com/,281,0,0
+1.73377E+12,588,Knektz,200,OK,Thread Group 1-9,text,TRUE,,9382,238,10,10,https://www.knektz.com/,290,0,0
+1.73377E+12,290,Knektz-0,301,Moved Permanently,Thread Group 1-9,text,TRUE,,1022,119,10,10,http://www.knektz.com/,290,0,0
+1.73377E+12,297,Knektz-1,200,OK,Thread Group 1-9,text,TRUE,,8360,119,10,10,https://www.knektz.com/,295,0,0
+1.73377E+12,258,QA,200,OK,Thread Group 1-4,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,258,0,0
+1.73377E+12,550,Knektz,200,OK,Thread Group 1-7,text,TRUE,,9382,238,10,10,https://www.knektz.com/,289,0,0
+1.73377E+12,289,Knektz-0,301,Moved Permanently,Thread Group 1-7,text,TRUE,,1022,119,10,10,http://www.knektz.com/,289,0,0
+1.73377E+12,260,Knektz-1,200,OK,Thread Group 1-7,text,TRUE,,8360,119,10,10,https://www.knektz.com/,259,0,0
+1.73377E+12,593,Knektz,200,OK,Thread Group 1-8,text,TRUE,,9382,238,10,10,https://www.knektz.com/,328,0,0
+1.73377E+12,328,Knektz-0,301,Moved Permanently,Thread Group 1-8,text,TRUE,,1022,119,10,10,http://www.knektz.com/,328,0,0
+1.73377E+12,265,Knektz-1,200,OK,Thread Group 1-8,text,TRUE,,8360,119,10,10,https://www.knektz.com/,264,0,0
+1.73377E+12,616,Knektz,200,OK,Thread Group 1-6,text,TRUE,,9382,238,10,10,https://www.knektz.com/,344,0,0
+1.73377E+12,344,Knektz-0,301,Moved Permanently,Thread Group 1-6,text,TRUE,,1022,119,10,10,http://www.knektz.com/,344,0,0
+1.73377E+12,272,Knektz-1,200,OK,Thread Group 1-6,text,TRUE,,8360,119,10,10,https://www.knektz.com/,272,0,0
+1.73377E+12,301,QA,200,OK,Thread Group 1-1,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,301,0,0
+1.73377E+12,272,Healthcare,200,OK,Thread Group 1-3,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,272,0,0
+1.73377E+12,273,Healthcare,200,OK,Thread Group 1-10,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,273,0,0
+1.73377E+12,259,Healthcare,200,OK,Thread Group 1-9,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,259,0,0
+1.73377E+12,250,Healthcare,200,OK,Thread Group 1-7,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,250,0,0
+1.73377E+12,532,Knektz,200,OK,Thread Group 1-2,text,TRUE,,9382,238,10,10,https://www.knektz.com/,249,0,0
+1.73377E+12,249,Knektz-0,301,Moved Permanently,Thread Group 1-2,text,TRUE,,1022,119,10,10,http://www.knektz.com/,249,0,0
+1.73377E+12,282,Knektz-1,200,OK,Thread Group 1-2,text,TRUE,,8360,119,10,10,https://www.knektz.com/,281,0,0
+1.73377E+12,262,Healthcare,200,OK,Thread Group 1-8,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,262,0,0
+1.73377E+12,289,Healthcare,200,OK,Thread Group 1-6,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,289,0,0
+1.73377E+12,272,QA,200,OK,Thread Group 1-3,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,270,0,0
+1.73377E+12,273,QA,200,OK,Thread Group 1-9,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,270,0,0
+1.73377E+12,275,QA,200,OK,Thread Group 1-10,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,274,0,0
+1.73377E+12,294,QA,200,OK,Thread Group 1-7,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,294,0,0
+1.73377E+12,272,Healthcare,200,OK,Thread Group 1-2,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,272,0,0
+1.73377E+12,550,Knektz,200,OK,Thread Group 1-4,text,TRUE,,9382,238,10,10,https://www.knektz.com/,275,0,0
+1.73377E+12,275,Knektz-0,301,Moved Permanently,Thread Group 1-4,text,TRUE,,1022,119,10,10,http://www.knektz.com/,275,0,0
+1.73377E+12,275,Knektz-1,200,OK,Thread Group 1-4,text,TRUE,,8360,119,10,10,https://www.knektz.com/,273,0,0
+1.73377E+12,273,QA,200,OK,Thread Group 1-8,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,273,0,0
+1.73377E+12,301,QA,200,OK,Thread Group 1-6,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,301,0,0
+1.73377E+12,265,QA,200,OK,Thread Group 1-2,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,264,0,0
+1.73377E+12,270,Healthcare,200,OK,Thread Group 1-4,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,270,0,0
+1.73377E+12,605,Knektz,200,OK,Thread Group 1-1,text,TRUE,,9382,238,10,10,https://www.knektz.com/,329,0,0
+1.73377E+12,329,Knektz-0,301,Moved Permanently,Thread Group 1-1,text,TRUE,,1022,119,10,10,http://www.knektz.com/,329,0,0
+1.73377E+12,276,Knektz-1,200,OK,Thread Group 1-1,text,TRUE,,8360,119,10,10,https://www.knektz.com/,275,0,0
+1.73377E+12,552,Knektz,200,OK,Thread Group 1-10,text,TRUE,,9382,238,10,10,https://www.knektz.com/,287,0,0
+1.73377E+12,288,Knektz-0,301,Moved Permanently,Thread Group 1-10,text,TRUE,,1022,119,10,10,http://www.knektz.com/,287,0,0
+1.73377E+12,264,Knektz-1,200,OK,Thread Group 1-10,text,TRUE,,8360,119,10,10,https://www.knektz.com/,263,0,0
+1.73377E+12,571,Knektz,200,OK,Thread Group 1-9,text,TRUE,,9382,238,10,10,https://www.knektz.com/,289,0,0
+1.73377E+12,289,Knektz-0,301,Moved Permanently,Thread Group 1-9,text,TRUE,,1022,119,10,10,http://www.knektz.com/,289,0,0
+1.73377E+12,282,Knektz-1,200,OK,Thread Group 1-9,text,TRUE,,8360,119,10,10,https://www.knektz.com/,280,0,0
+1.73377E+12,287,QA,200,OK,Thread Group 1-4,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,279,0,0
+1.73377E+12,289,Healthcare,200,OK,Thread Group 1-1,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,289,0,0
+1.73377E+12,566,Knektz,200,OK,Thread Group 1-7,text,TRUE,,9382,238,10,10,https://www.knektz.com/,273,0,0
+1.73377E+12,273,Knektz-0,301,Moved Permanently,Thread Group 1-7,text,TRUE,,1022,119,10,10,http://www.knektz.com/,273,0,0
+1.73377E+12,292,Knektz-1,200,OK,Thread Group 1-7,text,TRUE,,8360,119,10,10,https://www.knektz.com/,291,0,0
+1.73377E+12,601,Knektz,200,OK,Thread Group 1-3,text,TRUE,,9382,238,10,10,https://www.knektz.com/,294,0,0
+1.73377E+12,294,Knektz-0,301,Moved Permanently,Thread Group 1-3,text,TRUE,,1022,119,10,10,http://www.knektz.com/,294,0,0
+1.73377E+12,307,Knektz-1,200,OK,Thread Group 1-3,text,TRUE,,8360,119,10,10,https://www.knektz.com/,303,0,0
+1.73377E+12,627,Knektz,200,OK,Thread Group 1-8,text,TRUE,,9382,238,10,10,https://www.knektz.com/,260,0,0
+1.73377E+12,260,Knektz-0,301,Moved Permanently,Thread Group 1-8,text,TRUE,,1022,119,10,10,http://www.knektz.com/,260,0,0
+1.73377E+12,366,Knektz-1,200,OK,Thread Group 1-8,text,TRUE,,8360,119,10,10,https://www.knektz.com/,362,0,0
+1.73377E+12,569,Knektz,200,OK,Thread Group 1-6,text,TRUE,,9382,238,10,10,https://www.knektz.com/,298,0,0
+1.73377E+12,298,Knektz-0,301,Moved Permanently,Thread Group 1-6,text,TRUE,,1022,119,10,10,http://www.knektz.com/,298,0,0
+1.73377E+12,270,Knektz-1,200,OK,Thread Group 1-6,text,TRUE,,8360,119,10,10,https://www.knektz.com/,269,0,0
+1.73377E+12,526,Knektz,200,OK,Thread Group 1-2,text,TRUE,,9382,238,10,10,https://www.knektz.com/,260,0,0
+1.73377E+12,260,Knektz-0,301,Moved Permanently,Thread Group 1-2,text,TRUE,,1022,119,10,10,http://www.knektz.com/,260,0,0
+1.73377E+12,265,Knektz-1,200,OK,Thread Group 1-2,text,TRUE,,8360,119,10,10,https://www.knektz.com/,264,0,0
+1.73377E+12,266,Healthcare,200,OK,Thread Group 1-7,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,266,0,0
+1.73377E+12,308,Healthcare,200,OK,Thread Group 1-10,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,308,0,0
+1.73377E+12,292,Healthcare,200,OK,Thread Group 1-9,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,291,0,0
+1.73377E+12,272,QA,200,OK,Thread Group 1-1,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,272,0,0
+1.73377E+12,350,Healthcare,200,OK,Thread Group 1-3,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,349,0,0
+1.73377E+12,280,Healthcare,200,OK,Thread Group 1-6,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,280,0,0
+1.73377E+12,295,Healthcare,200,OK,Thread Group 1-8,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,294,0,0
+1.73377E+12,272,Healthcare,200,OK,Thread Group 1-2,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,271,0,0
+1.73377E+12,3398,Knektz,200,OK,Thread Group 1-5,text,TRUE,,9382,238,10,10,https://www.knektz.com/,520,0,255
+1.73377E+12,520,Knektz-0,301,Moved Permanently,Thread Group 1-5,text,TRUE,,1022,119,10,10,http://www.knektz.com/,520,0,255
+1.73377E+12,2878,Knektz-1,200,OK,Thread Group 1-5,text,TRUE,,8360,119,10,10,https://www.knektz.com/,2353,0,0
+1.73377E+12,281,QA,200,OK,Thread Group 1-7,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,281,0,0
+1.73377E+12,278,QA,200,OK,Thread Group 1-9,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,278,0,0
+1.73377E+12,288,QA,200,OK,Thread Group 1-10,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,288,0,0
+1.73377E+12,280,QA,200,OK,Thread Group 1-3,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,280,0,0
+1.73377E+12,647,Knektz,200,OK,Thread Group 1-4,text,TRUE,,9382,238,10,10,https://www.knektz.com/,359,0,0
+1.73377E+12,359,Knektz-0,301,Moved Permanently,Thread Group 1-4,text,TRUE,,1022,119,10,10,http://www.knektz.com/,359,0,0
+1.73377E+12,288,Knektz-1,200,OK,Thread Group 1-4,text,TRUE,,8360,119,10,10,https://www.knektz.com/,287,0,0
+1.73377E+12,268,QA,200,OK,Thread Group 1-8,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,268,0,0
+1.73377E+12,274,QA,200,OK,Thread Group 1-6,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,274,0,0
+1.73377E+12,301,Healthcare,200,OK,Thread Group 1-5,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,300,0,0
+1.73377E+12,566,Knektz,200,OK,Thread Group 1-1,text,TRUE,,9382,238,10,10,https://www.knektz.com/,276,0,0
+1.73377E+12,276,Knektz-0,301,Moved Permanently,Thread Group 1-1,text,TRUE,,1022,119,10,10,http://www.knektz.com/,276,0,0
+1.73377E+12,289,Knektz-1,200,OK,Thread Group 1-1,text,TRUE,,8360,119,10,10,https://www.knektz.com/,286,0,0
+1.73377E+12,340,QA,200,OK,Thread Group 1-2,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,340,0,0
+1.73377E+12,361,Healthcare,200,OK,Thread Group 1-4,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,361,0,0
+1.73377E+12,583,Knektz,200,OK,Thread Group 1-7,text,TRUE,,9382,238,10,10,https://www.knektz.com/,292,0,0
+1.73377E+12,292,Knektz-0,301,Moved Permanently,Thread Group 1-7,text,TRUE,,1022,119,10,10,http://www.knektz.com/,292,0,0
+1.73377E+12,291,Knektz-1,200,OK,Thread Group 1-7,text,TRUE,,8360,119,10,10,https://www.knektz.com/,290,0,0
+1.73377E+12,296,Healthcare,200,OK,Thread Group 1-1,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,296,0,0
+1.73377E+12,578,Knektz,200,OK,Thread Group 1-10,text,TRUE,,9382,238,10,10,https://www.knektz.com/,277,0,0
+1.73377E+12,277,Knektz-0,301,Moved Permanently,Thread Group 1-10,text,TRUE,,1022,119,10,10,http://www.knektz.com/,277,0,0
+1.73377E+12,301,Knektz-1,200,OK,Thread Group 1-10,text,TRUE,,8360,119,10,10,https://www.knektz.com/,300,0,0
+1.73377E+12,329,QA,200,OK,Thread Group 1-5,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,328,0,0
+1.73377E+12,617,Knektz,200,OK,Thread Group 1-9,text,TRUE,,9382,238,10,10,https://www.knektz.com/,285,0,0
+1.73377E+12,285,Knektz-0,301,Moved Permanently,Thread Group 1-9,text,TRUE,,1022,119,10,10,http://www.knektz.com/,285,0,0
+1.73377E+12,332,Knektz-1,200,OK,Thread Group 1-9,text,TRUE,,8360,119,10,10,https://www.knektz.com/,330,0,0
+1.73377E+12,328,QA,200,OK,Thread Group 1-4,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,328,0,0
+1.73377E+12,699,Knektz,200,OK,Thread Group 1-3,text,TRUE,,9382,238,10,10,https://www.knektz.com/,284,0,0
+1.73377E+12,284,Knektz-0,301,Moved Permanently,Thread Group 1-3,text,TRUE,,1022,119,10,10,http://www.knektz.com/,284,0,0
+1.73377E+12,415,Knektz-1,200,OK,Thread Group 1-3,text,TRUE,,8360,119,10,10,https://www.knektz.com/,414,0,0
+1.73377E+12,644,Knektz,200,OK,Thread Group 1-8,text,TRUE,,9382,238,10,10,https://www.knektz.com/,310,0,0
+1.73377E+12,640,Knektz,200,OK,Thread Group 1-6,text,TRUE,,9382,238,10,10,https://www.knektz.com/,310,0,0
+1.73377E+12,310,Knektz-0,301,Moved Permanently,Thread Group 1-8,text,TRUE,,1022,119,10,10,http://www.knektz.com/,310,0,0
+1.73377E+12,310,Knektz-0,301,Moved Permanently,Thread Group 1-6,text,TRUE,,1022,119,10,10,http://www.knektz.com/,310,0,0
+1.73377E+12,334,Knektz-1,200,OK,Thread Group 1-8,text,TRUE,,8360,119,10,10,https://www.knektz.com/,332,0,0
+1.73377E+12,330,Knektz-1,200,OK,Thread Group 1-6,text,TRUE,,8360,119,10,10,https://www.knektz.com/,328,0,0
+1.73377E+12,302,Healthcare,200,OK,Thread Group 1-7,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,302,0,0
+1.73377E+12,301,QA,200,OK,Thread Group 1-1,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,301,0,0
+1.73377E+12,286,Healthcare,200,OK,Thread Group 1-9,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,286,0,0
+1.73377E+12,676,Knektz,200,OK,Thread Group 1-2,text,TRUE,,9382,238,10,10,https://www.knektz.com/,324,0,0
+1.73377E+12,324,Knektz-0,301,Moved Permanently,Thread Group 1-2,text,TRUE,,1022,119,10,10,http://www.knektz.com/,324,0,0
+1.73377E+12,351,Knektz-1,200,OK,Thread Group 1-2,text,TRUE,,8360,119,10,10,https://www.knektz.com/,350,0,0
+1.73377E+12,306,Healthcare,200,OK,Thread Group 1-3,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,301,0,0
+1.73377E+12,305,Healthcare,200,OK,Thread Group 1-6,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,305,0,0
+1.73377E+12,350,Healthcare,200,OK,Thread Group 1-8,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,350,0,0
+1.73377E+12,296,QA,200,OK,Thread Group 1-9,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,296,0,0
+1.73377E+12,377,QA,200,OK,Thread Group 1-7,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,376,0,0
+1.73377E+12,683,Healthcare,200,OK,Thread Group 1-10,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,683,0,0
+1.73377E+12,282,QA,200,OK,Thread Group 1-3,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,282,0,0
+1.73377E+12,286,QA,200,OK,Thread Group 1-6,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,286,0,0
+1.73377E+12,412,Healthcare,200,OK,Thread Group 1-2,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,412,0,0
+1.73377E+12,599,Knektz,200,OK,Thread Group 1-4,text,TRUE,,9382,238,10,10,https://www.knektz.com/,308,0,0
+1.73377E+12,308,Knektz-0,301,Moved Permanently,Thread Group 1-4,text,TRUE,,1022,119,10,10,http://www.knektz.com/,308,0,0
+1.73377E+12,291,Knektz-1,200,OK,Thread Group 1-4,text,TRUE,,8360,119,10,10,https://www.knektz.com/,288,0,0
+1.73377E+12,293,QA,200,OK,Thread Group 1-8,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,292,0,0
+1.73377E+12,280,QA,200,OK,Thread Group 1-10,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,280,0,0
+1.73377E+12,696,Knektz,200,OK,Thread Group 1-1,text,TRUE,,9382,238,10,10,https://www.knektz.com/,376,0,0
+1.73377E+12,376,Knektz-0,301,Moved Permanently,Thread Group 1-1,text,TRUE,,1022,119,10,10,http://www.knektz.com/,376,0,0
+1.73377E+12,320,Knektz-1,200,OK,Thread Group 1-1,text,TRUE,,8360,119,10,10,https://www.knektz.com/,318,0,0
+1.73377E+12,1025,Knektz,200,OK,Thread Group 1-5,text,TRUE,,9382,238,10,10,https://www.knektz.com/,349,0,0
+1.73377E+12,349,Knektz-0,301,Moved Permanently,Thread Group 1-5,text,TRUE,,1022,119,10,10,http://www.knektz.com/,349,0,0
+1.73377E+12,675,Knektz-1,200,OK,Thread Group 1-5,text,TRUE,,8360,119,10,10,https://www.knektz.com/,415,0,0
+1.73377E+12,287,Healthcare,200,OK,Thread Group 1-4,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,286,0,0
+1.73377E+12,296,QA,200,OK,Thread Group 1-2,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,296,0,0
+1.73377E+12,616,Knektz,200,OK,Thread Group 1-9,text,TRUE,,9382,238,10,10,https://www.knektz.com/,285,0,0
+1.73377E+12,286,Knektz-0,301,Moved Permanently,Thread Group 1-9,text,TRUE,,1022,119,10,10,http://www.knektz.com/,285,0,0
+1.73377E+12,330,Knektz-1,200,OK,Thread Group 1-9,text,TRUE,,8360,119,10,10,https://www.knektz.com/,329,0,0
+1.73377E+12,304,Healthcare,200,OK,Thread Group 1-1,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,304,0,0
+1.73377E+12,633,Knektz,200,OK,Thread Group 1-7,text,TRUE,,9382,238,10,10,https://www.knektz.com/,298,0,0
+1.73377E+12,298,Knektz-0,301,Moved Permanently,Thread Group 1-7,text,TRUE,,1022,119,10,10,http://www.knektz.com/,298,0,0
+1.73377E+12,335,Knektz-1,200,OK,Thread Group 1-7,text,TRUE,,8360,119,10,10,https://www.knektz.com/,334,0,0
+1.73377E+12,323,Healthcare,200,OK,Thread Group 1-5,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,323,0,0
+1.73377E+12,329,QA,200,OK,Thread Group 1-4,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,328,0,0
+1.73377E+12,633,Knektz,200,OK,Thread Group 1-6,text,TRUE,,9382,238,10,10,https://www.knektz.com/,266,0,0
+1.73377E+12,266,Knektz-0,301,Moved Permanently,Thread Group 1-6,text,TRUE,,1022,119,10,10,http://www.knektz.com/,266,0,0
+1.73377E+12,366,Knektz-1,200,OK,Thread Group 1-6,text,TRUE,,8360,119,10,10,https://www.knektz.com/,361,0,0
+1.73377E+12,637,Knektz,200,OK,Thread Group 1-3,text,TRUE,,9382,238,10,10,https://www.knektz.com/,294,0,0
+1.73377E+12,294,Knektz-0,301,Moved Permanently,Thread Group 1-3,text,TRUE,,1022,119,10,10,http://www.knektz.com/,294,0,0
+1.73377E+12,343,Knektz-1,200,OK,Thread Group 1-3,text,TRUE,,8360,119,10,10,https://www.knektz.com/,342,0,0
+1.73377E+12,582,Knektz,200,OK,Thread Group 1-8,text,TRUE,,9382,238,10,10,https://www.knektz.com/,271,0,0
+1.73377E+12,271,Knektz-0,301,Moved Permanently,Thread Group 1-8,text,TRUE,,1022,119,10,10,http://www.knektz.com/,271,0,0
+1.73377E+12,311,Knektz-1,200,OK,Thread Group 1-8,text,TRUE,,8360,119,10,10,https://www.knektz.com/,310,0,0
+1.73377E+12,594,Knektz,200,OK,Thread Group 1-10,text,TRUE,,9382,238,10,10,https://www.knektz.com/,254,0,0
+1.73377E+12,254,Knektz-0,301,Moved Permanently,Thread Group 1-10,text,TRUE,,1022,119,10,10,http://www.knektz.com/,254,0,0
+1.73377E+12,340,Knektz-1,200,OK,Thread Group 1-10,text,TRUE,,8360,119,10,10,https://www.knektz.com/,333,0,0
+1.73377E+12,332,Healthcare,200,OK,Thread Group 1-9,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,330,0,0
+1.73377E+12,272,Healthcare,200,OK,Thread Group 1-7,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,272,0,0
+1.73377E+12,295,QA,200,OK,Thread Group 1-1,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,295,0,0
+1.73377E+12,571,Knektz,200,OK,Thread Group 1-2,text,TRUE,,9382,238,10,10,https://www.knektz.com/,306,0,0
+1.73377E+12,307,Knektz-0,301,Moved Permanently,Thread Group 1-2,text,TRUE,,1022,119,10,10,http://www.knektz.com/,306,0,0
+1.73377E+12,264,Knektz-1,200,OK,Thread Group 1-2,text,TRUE,,8360,119,10,10,https://www.knektz.com/,263,0,0
+1.73377E+12,300,QA,200,OK,Thread Group 1-5,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,300,0,0
+1.73377E+12,287,Healthcare,200,OK,Thread Group 1-3,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,287,0,0
+1.73377E+12,288,Healthcare,200,OK,Thread Group 1-6,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,287,0,0
+1.73377E+12,291,Healthcare,200,OK,Thread Group 1-8,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,291,0,0
+1.73377E+12,308,QA,200,OK,Thread Group 1-9,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,308,0,0
+1.73377E+12,295,QA,200,OK,Thread Group 1-7,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,295,0,0
+1.73377E+12,304,Healthcare,200,OK,Thread Group 1-2,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,304,0,0
+1.73377E+12,256,QA,200,OK,Thread Group 1-8,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,255,0,0
+1.73377E+12,262,QA,200,OK,Thread Group 1-3,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,262,0,0
+1.73377E+12,562,Knektz,200,OK,Thread Group 1-4,text,TRUE,,9382,238,10,10,https://www.knektz.com/,265,0,0
+1.73377E+12,265,Knektz-0,301,Moved Permanently,Thread Group 1-4,text,TRUE,,1022,119,10,10,http://www.knektz.com/,265,0,0
+1.73377E+12,297,Knektz-1,200,OK,Thread Group 1-4,text,TRUE,,8360,119,10,10,https://www.knektz.com/,295,0,0
+1.73377E+12,262,QA,200,OK,Thread Group 1-6,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,262,0,0
+1.73377E+12,614,Healthcare,200,OK,Thread Group 1-10,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,313,0,0
+1.73377E+12,584,Knektz,200,OK,Thread Group 1-1,text,TRUE,,9382,238,10,10,https://www.knektz.com/,314,0,0
+1.73377E+12,314,Knektz-0,301,Moved Permanently,Thread Group 1-1,text,TRUE,,1022,119,10,10,http://www.knektz.com/,314,0,0
+1.73377E+12,270,Knektz-1,200,OK,Thread Group 1-1,text,TRUE,,8360,119,10,10,https://www.knektz.com/,269,0,0
+1.73377E+12,270,Healthcare,200,OK,Thread Group 1-4,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,270,0,0
+1.73377E+12,290,QA,200,OK,Thread Group 1-2,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,289,0,0
+1.73377E+12,577,Knektz,200,OK,Thread Group 1-7,text,TRUE,,9382,238,10,10,https://www.knektz.com/,296,0,0
+1.73377E+12,296,Knektz-0,301,Moved Permanently,Thread Group 1-7,text,TRUE,,1022,119,10,10,http://www.knektz.com/,296,0,0
+1.73377E+12,281,Knektz-1,200,OK,Thread Group 1-7,text,TRUE,,8360,119,10,10,https://www.knektz.com/,280,0,0
+1.73377E+12,274,Healthcare,200,OK,Thread Group 1-1,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,274,0,0
+1.73377E+12,303,QA,200,OK,Thread Group 1-10,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,303,0,0
+1.73377E+12,621,Knektz,200,OK,Thread Group 1-9,text,TRUE,,9382,238,10,10,https://www.knektz.com/,302,0,0
+1.73377E+12,302,Knektz-0,301,Moved Permanently,Thread Group 1-9,text,TRUE,,1022,119,10,10,http://www.knektz.com/,302,0,0
+1.73377E+12,319,Knektz-1,200,OK,Thread Group 1-9,text,TRUE,,8360,119,10,10,https://www.knektz.com/,318,0,0
+1.73377E+12,817,Knektz,200,OK,Thread Group 1-5,text,TRUE,,9382,238,10,10,https://www.knektz.com/,286,0,0
+1.73377E+12,286,Knektz-0,301,Moved Permanently,Thread Group 1-5,text,TRUE,,1022,119,10,10,http://www.knektz.com/,286,0,0
+1.73377E+12,531,Knektz-1,200,OK,Thread Group 1-5,text,TRUE,,8360,119,10,10,https://www.knektz.com/,277,0,0
+1.73377E+12,257,QA,200,OK,Thread Group 1-4,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,256,0,0
+1.73377E+12,561,Knektz,200,OK,Thread Group 1-8,text,TRUE,,9382,238,10,10,https://www.knektz.com/,273,0,0
+1.73377E+12,273,Knektz-0,301,Moved Permanently,Thread Group 1-8,text,TRUE,,1022,119,10,10,http://www.knektz.com/,273,0,0
+1.73377E+12,288,Knektz-1,200,OK,Thread Group 1-8,text,TRUE,,8360,119,10,10,https://www.knektz.com/,286,0,0
+1.73377E+12,563,Knektz,200,OK,Thread Group 1-3,text,TRUE,,9382,238,10,10,https://www.knektz.com/,271,0,0
+1.73377E+12,562,Knektz,200,OK,Thread Group 1-6,text,TRUE,,9382,238,10,10,https://www.knektz.com/,270,0,0
+1.73377E+12,272,Knektz-0,301,Moved Permanently,Thread Group 1-3,text,TRUE,,1022,119,10,10,http://www.knektz.com/,271,0,0
+1.73377E+12,270,Knektz-0,301,Moved Permanently,Thread Group 1-6,text,TRUE,,1022,119,10,10,http://www.knektz.com/,270,0,0
+1.73377E+12,291,Knektz-1,200,OK,Thread Group 1-3,text,TRUE,,8360,119,10,10,https://www.knektz.com/,289,0,0
+1.73377E+12,292,Knektz-1,200,OK,Thread Group 1-6,text,TRUE,,8360,119,10,10,https://www.knektz.com/,290,0,0
+1.73377E+12,290,Healthcare,200,OK,Thread Group 1-7,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,290,0,0
+1.73377E+12,304,QA,200,OK,Thread Group 1-1,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,304,0,0
+1.73377E+12,270,Healthcare,200,OK,Thread Group 1-5,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,269,0,0
+1.73377E+12,273,Healthcare,200,OK,Thread Group 1-9,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,273,0,0
+1.73377E+12,294,Healthcare,200,OK,Thread Group 1-3,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,293,0,0
+1.73377E+12,301,Healthcare,200,OK,Thread Group 1-8,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,300,0,0
+1.73377E+12,301,QA,200,OK,Thread Group 1-7,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,301,0,0
+1.73377E+12,511,Healthcare,200,OK,Thread Group 1-6,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,510,0,0
+1.73377E+12,795,Knektz,200,OK,Thread Group 1-2,text,TRUE,,9382,238,10,10,https://www.knektz.com/,314,0,0
+1.73377E+12,314,Knektz-0,301,Moved Permanently,Thread Group 1-2,text,TRUE,,1022,119,10,10,http://www.knektz.com/,314,0,0
+1.73377E+12,480,Knektz-1,200,OK,Thread Group 1-2,text,TRUE,,8360,119,10,10,https://www.knektz.com/,477,0,0
+1.73377E+12,582,Knektz,200,OK,Thread Group 1-10,text,TRUE,,9382,238,10,10,https://www.knektz.com/,263,0,0
+1.73377E+12,263,Knektz-0,301,Moved Permanently,Thread Group 1-10,text,TRUE,,1022,119,10,10,http://www.knektz.com/,263,0,0
+1.73377E+12,319,Knektz-1,200,OK,Thread Group 1-10,text,TRUE,,8360,119,10,10,https://www.knektz.com/,311,0,0
+1.73377E+12,304,QA,200,OK,Thread Group 1-5,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,303,0,0
+1.73377E+12,305,QA,200,OK,Thread Group 1-9,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,305,0,0
+1.73377E+12,276,QA,200,OK,Thread Group 1-3,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,276,0,0
+1.73377E+12,329,QA,200,OK,Thread Group 1-8,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,329,0,0
+1.73377E+12,665,Knektz,200,OK,Thread Group 1-4,text,TRUE,,9382,238,10,10,https://www.knektz.com/,329,0,0
+1.73377E+12,329,Knektz-0,301,Moved Permanently,Thread Group 1-4,text,TRUE,,1022,119,10,10,http://www.knektz.com/,329,0,0
+1.73377E+12,336,Knektz-1,200,OK,Thread Group 1-4,text,TRUE,,8360,119,10,10,https://www.knektz.com/,333,0,0
+1.73377E+12,274,QA,200,OK,Thread Group 1-6,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,269,0,0
+1.73377E+12,266,Healthcare,200,OK,Thread Group 1-10,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,265,0,0
+1.73377E+12,576,Knektz,200,OK,Thread Group 1-1,text,TRUE,,9382,238,10,10,https://www.knektz.com/,304,0,0
+1.73377E+12,304,Knektz-0,301,Moved Permanently,Thread Group 1-1,text,TRUE,,1022,119,10,10,http://www.knektz.com/,304,0,0
+1.73377E+12,272,Knektz-1,200,OK,Thread Group 1-1,text,TRUE,,8360,119,10,10,https://www.knektz.com/,269,0,0
+1.73377E+12,301,Healthcare,200,OK,Thread Group 1-2,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,301,0,0
+1.73377E+12,283,Healthcare,200,OK,Thread Group 1-4,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,283,0,0
+1.73377E+12,551,Knektz,200,OK,Thread Group 1-9,text,TRUE,,9382,238,10,10,https://www.knektz.com/,263,0,0
+1.73377E+12,263,Knektz-0,301,Moved Permanently,Thread Group 1-9,text,TRUE,,1022,119,10,10,http://www.knektz.com/,263,0,0
+1.73377E+12,287,Knektz-1,200,OK,Thread Group 1-9,text,TRUE,,8360,119,10,10,https://www.knektz.com/,285,0,0
+1.73377E+12,300,QA,200,OK,Thread Group 1-10,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,300,0,0
+1.73377E+12,340,Healthcare,200,OK,Thread Group 1-1,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,340,0,0
+1.73377E+12,325,QA,200,OK,Thread Group 1-2,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,325,0,0
+1.73377E+12,657,Knektz,200,OK,Thread Group 1-5,text,TRUE,,9382,238,10,10,https://www.knektz.com/,283,0,0
+1.73377E+12,681,Knektz,200,OK,Thread Group 1-7,text,TRUE,,9382,238,10,10,https://www.knektz.com/,311,0,0
+1.73377E+12,283,Knektz-0,301,Moved Permanently,Thread Group 1-5,text,TRUE,,1022,119,10,10,http://www.knektz.com/,283,0,0
+1.73377E+12,311,Knektz-0,301,Moved Permanently,Thread Group 1-7,text,TRUE,,1022,119,10,10,http://www.knektz.com/,311,0,0
+1.73377E+12,374,Knektz-1,200,OK,Thread Group 1-5,text,TRUE,,8360,119,10,10,https://www.knektz.com/,372,0,0
+1.73377E+12,370,Knektz-1,200,OK,Thread Group 1-7,text,TRUE,,8360,119,10,10,https://www.knektz.com/,368,0,0
+1.73377E+12,619,Knektz,200,OK,Thread Group 1-3,text,TRUE,,9382,238,10,10,https://www.knektz.com/,260,0,0
+1.73377E+12,261,Knektz-0,301,Moved Permanently,Thread Group 1-3,text,TRUE,,1022,119,10,10,http://www.knektz.com/,260,0,0
+1.73377E+12,358,Knektz-1,200,OK,Thread Group 1-3,text,TRUE,,8360,119,10,10,https://www.knektz.com/,357,0,0
+1.73377E+12,307,QA,200,OK,Thread Group 1-4,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,307,0,0
+1.73377E+12,607,Knektz,200,OK,Thread Group 1-8,text,TRUE,,9382,238,10,10,https://www.knektz.com/,267,0,0
+1.73377E+12,267,Knektz-0,301,Moved Permanently,Thread Group 1-8,text,TRUE,,1022,119,10,10,http://www.knektz.com/,267,0,0
+1.73377E+12,340,Knektz-1,200,OK,Thread Group 1-8,text,TRUE,,8360,119,10,10,https://www.knektz.com/,338,0,0
+1.73377E+12,366,Healthcare,200,OK,Thread Group 1-9,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,366,0,0
+1.73377E+12,318,QA,200,OK,Thread Group 1-1,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,318,0,0
+1.73377E+12,698,Knektz,200,OK,Thread Group 1-6,text,TRUE,,9382,238,10,10,https://www.knektz.com/,354,0,0
+1.73377E+12,354,Knektz-0,301,Moved Permanently,Thread Group 1-6,text,TRUE,,1022,119,10,10,http://www.knektz.com/,354,0,0
+1.73377E+12,343,Knektz-1,200,OK,Thread Group 1-6,text,TRUE,,8360,119,10,10,https://www.knektz.com/,342,0,0
+1.73377E+12,576,Healthcare,200,OK,Thread Group 1-7,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,575,0,0
+1.73377E+12,576,Healthcare,200,OK,Thread Group 1-5,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,576,0,0
+1.73377E+12,652,Healthcare,200,OK,Thread Group 1-8,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,652,0,0
+1.73377E+12,584,QA,200,OK,Thread Group 1-9,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,584,0,0
+1.73377E+12,555,Healthcare,200,OK,Thread Group 1-6,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,554,0,0
+1.73377E+12,869,Healthcare,200,OK,Thread Group 1-3,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,868,0,0
+1.73377E+12,923,Knektz,200,OK,Thread Group 1-2,text,TRUE,,9382,238,10,10,https://www.knektz.com/,310,0,0
+1.73377E+12,310,Knektz-0,301,Moved Permanently,Thread Group 1-2,text,TRUE,,1022,119,10,10,http://www.knektz.com/,310,0,0
+1.73377E+12,614,Knektz-1,200,OK,Thread Group 1-2,text,TRUE,,8360,119,10,10,https://www.knektz.com/,610,0,0
+1.73377E+12,993,Knektz,200,OK,Thread Group 1-10,text,TRUE,,9382,238,10,10,https://www.knektz.com/,363,0,0
+1.73377E+12,363,Knektz-0,301,Moved Permanently,Thread Group 1-10,text,TRUE,,1022,119,10,10,http://www.knektz.com/,363,0,0
+1.73377E+12,631,Knektz-1,200,OK,Thread Group 1-10,text,TRUE,,8360,119,10,10,https://www.knektz.com/,630,0,0
+1.73377E+12,319,QA,200,OK,Thread Group 1-5,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,319,0,0
+1.73377E+12,917,Knektz,200,OK,Thread Group 1-4,text,TRUE,,9382,238,10,10,https://www.knektz.com/,636,0,0
+1.73377E+12,636,Knektz-0,301,Moved Permanently,Thread Group 1-4,text,TRUE,,1022,119,10,10,http://www.knektz.com/,636,0,0
+1.73377E+12,282,Knektz-1,200,OK,Thread Group 1-4,text,TRUE,,8360,119,10,10,https://www.knektz.com/,281,0,0
+1.73377E+12,327,QA,200,OK,Thread Group 1-8,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,326,0,0
+1.73377E+12,393,QA,200,OK,Thread Group 1-6,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,392,0,0
+1.73377E+12,976,Knektz,200,OK,Thread Group 1-1,text,TRUE,,9382,238,10,10,https://www.knektz.com/,579,0,0
+1.73377E+12,579,Knektz-0,301,Moved Permanently,Thread Group 1-1,text,TRUE,,1022,119,10,10,http://www.knektz.com/,579,0,0
+1.73377E+12,397,Knektz-1,200,OK,Thread Group 1-1,text,TRUE,,8360,119,10,10,https://www.knektz.com/,396,0,0
+1.73377E+12,391,QA,200,OK,Thread Group 1-3,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,391,0,0
+1.73377E+12,371,Healthcare,200,OK,Thread Group 1-10,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,371,0,0
+1.73377E+12,407,Healthcare,200,OK,Thread Group 1-2,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,407,0,0
+1.73377E+12,334,Healthcare,200,OK,Thread Group 1-4,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,334,0,0
+1.73377E+12,744,Knektz,200,OK,Thread Group 1-9,text,TRUE,,9382,238,10,10,https://www.knektz.com/,398,0,0
+1.73377E+12,398,Knektz-0,301,Moved Permanently,Thread Group 1-9,text,TRUE,,1022,119,10,10,http://www.knektz.com/,398,0,0
+1.73377E+12,346,Knektz-1,200,OK,Thread Group 1-9,text,TRUE,,8360,119,10,10,https://www.knektz.com/,344,0,0
+1.73377E+12,307,QA,200,OK,Thread Group 1-4,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,305,0,0
+1.73377E+12,330,QA,200,OK,Thread Group 1-10,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,329,0,0
+1.73377E+12,311,QA,200,OK,Thread Group 1-2,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,311,0,0
+1.73377E+12,351,Healthcare,200,OK,Thread Group 1-1,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,350,0,0
+1.73377E+12,703,Knektz,200,OK,Thread Group 1-5,text,TRUE,,9382,238,10,10,https://www.knektz.com/,386,0,0
+1.73377E+12,386,Knektz-0,301,Moved Permanently,Thread Group 1-5,text,TRUE,,1022,119,10,10,http://www.knektz.com/,386,0,0
+1.73377E+12,317,Knektz-1,200,OK,Thread Group 1-5,text,TRUE,,8360,119,10,10,https://www.knektz.com/,314,0,0
+1.73377E+12,578,Knektz,200,OK,Thread Group 1-8,text,TRUE,,9382,238,10,10,https://www.knektz.com/,260,0,0
+1.73377E+12,260,Knektz-0,301,Moved Permanently,Thread Group 1-8,text,TRUE,,1022,119,10,10,http://www.knektz.com/,260,0,0
+1.73377E+12,318,Knektz-1,200,OK,Thread Group 1-8,text,TRUE,,8360,119,10,10,https://www.knektz.com/,316,0,0
+1.73377E+12,1284,QA,200,OK,Thread Group 1-7,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,1281,0,0
+1.73377E+12,650,Knektz,200,OK,Thread Group 1-6,text,TRUE,,9382,238,10,10,https://www.knektz.com/,313,0,0
+1.73377E+12,314,Knektz-0,301,Moved Permanently,Thread Group 1-6,text,TRUE,,1022,119,10,10,http://www.knektz.com/,313,0,0
+1.73377E+12,336,Knektz-1,200,OK,Thread Group 1-6,text,TRUE,,8360,119,10,10,https://www.knektz.com/,327,0,0
+1.73377E+12,302,Healthcare,200,OK,Thread Group 1-5,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,297,0,0
+1.73377E+12,310,Healthcare,200,OK,Thread Group 1-9,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,310,0,0
+1.73377E+12,305,QA,200,OK,Thread Group 1-1,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,305,0,0
+1.73377E+12,300,Healthcare,200,OK,Thread Group 1-8,text,TRUE,,10857,150,10,10,http://www.healthcare.knektz.com/templates/about.html,300,0,0
+1.73377E+12,641,Knektz,200,OK,Thread Group 1-3,text,TRUE,,9382,238,10,10,https://www.knektz.com/,326,0,0
+1.73377E+12,327,Knektz-0,301,Moved Permanently,Thread Group 1-3,text,TRUE,,1022,119,10,10,http://www.knektz.com/,326,0,0
+1.73377E+12,314,Knektz-1,200,OK,Thread Group 1-3,text,TRUE,,8360,119,10,10,https://www.knektz.com/,313,0,0
+1.73377E+12,405,QA,200,OK,Thread Group 1-8,text,TRUE,,11773,155,10,10,http://www.qa.knektz.com/templates/qa-student-program.html,405,0,0
+1.73377E+12,416,Healthcare,200,OK,Thread Group 1-6,text,TRUE,,10857,150,9,9,http://www.healthcare.knektz.com/templates/about.html,416,0,0
+1.73377E+12,718,Knektz,200,OK,Thread Group 1-2,text,TRUE,,9382,238,9,9,https://www.knektz.com/,288,0,0
+1.73377E+12,288,Knektz-0,301,Moved Permanently,Thread Group 1-2,text,TRUE,,1022,119,9,9,http://www.knektz.com/,288,0,0
+1.73377E+12,430,Knektz-1,200,OK,Thread Group 1-2,text,TRUE,,8360,119,9,9,https://www.knektz.com/,428,0,0
+1.73377E+12,720,Knektz,200,OK,Thread Group 1-4,text,TRUE,,9382,238,9,9,https://www.knektz.com/,307,0,0
+1.73377E+12,307,Knektz-0,301,Moved Permanently,Thread Group 1-4,text,TRUE,,1022,119,9,9,http://www.knektz.com/,307,0,0
+1.73377E+12,413,Knektz-1,200,OK,Thread Group 1-4,text,TRUE,,8360,119,9,9,https://www.knektz.com/,411,0,0
+1.73377E+12,434,QA,200,OK,Thread Group 1-5,text,TRUE,,11773,155,9,9,http://www.qa.knektz.com/templates/qa-student-program.html,434,0,0
+1.73377E+12,442,QA,200,OK,Thread Group 1-9,text,TRUE,,11773,155,9,9,http://www.qa.knektz.com/templates/qa-student-program.html,441,0,0
+1.73377E+12,668,Knektz,200,OK,Thread Group 1-7,text,TRUE,,9382,238,8,8,https://www.knektz.com/,407,0,0
+1.73377E+12,407,Knektz-0,301,Moved Permanently,Thread Group 1-7,text,TRUE,,1022,119,8,8,http://www.knektz.com/,407,0,0
+1.73377E+12,261,Knektz-1,200,OK,Thread Group 1-7,text,TRUE,,8360,119,8,8,https://www.knektz.com/,260,0,0
+1.73377E+12,853,Healthcare,200,OK,Thread Group 1-3,text,TRUE,,10857,150,8,8,http://www.healthcare.knektz.com/templates/about.html,407,0,0
+1.73377E+12,473,QA,200,OK,Thread Group 1-6,text,TRUE,,11773,155,8,8,http://www.qa.knektz.com/templates/qa-student-program.html,472,0,0
+1.73377E+12,892,Knektz,200,OK,Thread Group 1-1,text,TRUE,,9382,238,7,7,https://www.knektz.com/,409,0,0
+1.73377E+12,409,Knektz-0,301,Moved Permanently,Thread Group 1-1,text,TRUE,,1022,119,7,7,http://www.knektz.com/,409,0,0
+1.73377E+12,483,Knektz-1,200,OK,Thread Group 1-1,text,TRUE,,8360,119,7,7,https://www.knektz.com/,482,0,0
+1.73377E+12,492,Healthcare,200,OK,Thread Group 1-2,text,TRUE,,10857,150,7,7,http://www.healthcare.knektz.com/templates/about.html,492,0,0
+1.73377E+12,501,Healthcare,200,OK,Thread Group 1-4,text,TRUE,,10857,150,7,7,http://www.healthcare.knektz.com/templates/about.html,501,0,0
+1.73377E+12,625,Healthcare,200,OK,Thread Group 1-7,text,TRUE,,10857,150,7,7,http://www.healthcare.knektz.com/templates/about.html,625,0,0
+1.73377E+12,585,QA,200,OK,Thread Group 1-3,text,TRUE,,11773,155,7,7,http://www.qa.knektz.com/templates/qa-student-program.html,585,0,0
+1.73377E+12,584,QA,200,OK,Thread Group 1-4,text,TRUE,,11773,155,6,6,http://www.qa.knektz.com/templates/qa-student-program.html,583,0,0
+1.73377E+12,607,Healthcare,200,OK,Thread Group 1-1,text,TRUE,,10857,150,5,5,http://www.healthcare.knektz.com/templates/about.html,607,0,0
+1.73377E+12,600,QA,200,OK,Thread Group 1-2,text,TRUE,,11773,155,5,5,http://www.qa.knektz.com/templates/qa-student-program.html,595,0,0
+1.73377E+12,1079,Knektz,200,OK,Thread Group 1-5,text,TRUE,,9382,238,4,4,https://www.knektz.com/,470,0,0
+1.73377E+12,470,Knektz-0,301,Moved Permanently,Thread Group 1-5,text,TRUE,,1022,119,4,4,http://www.knektz.com/,470,0,0
+1.73377E+12,609,Knektz-1,200,OK,Thread Group 1-5,text,TRUE,,8360,119,4,4,https://www.knektz.com/,608,0,0
+1.73377E+12,273,QA,200,OK,Thread Group 1-1,text,TRUE,,11773,155,4,4,http://www.qa.knektz.com/templates/qa-student-program.html,273,0,0
+1.73377E+12,322,Healthcare,200,OK,Thread Group 1-5,text,TRUE,,10857,150,3,3,http://www.healthcare.knektz.com/templates/about.html,322,0,0
+1.73377E+12,637,QA,200,OK,Thread Group 1-7,text,TRUE,,11773,155,3,3,http://www.qa.knektz.com/templates/qa-student-program.html,378,0,0
+1.73377E+12,2365,Knektz,200,OK,Thread Group 1-10,text,TRUE,,9382,238,2,2,https://www.knektz.com/,288,0,0
+1.73377E+12,288,Knektz-0,301,Moved Permanently,Thread Group 1-10,text,TRUE,,1022,119,2,2,http://www.knektz.com/,288,0,0
+1.73377E+12,2077,Knektz-1,200,OK,Thread Group 1-10,text,TRUE,,8360,119,2,2,https://www.knektz.com/,1791,0,0
+1.73377E+12,313,QA,200,OK,Thread Group 1-5,text,TRUE,,11773,155,2,2,http://www.qa.knektz.com/templates/qa-student-program.html,313,0,0
+1.73377E+12,270,Healthcare,200,OK,Thread Group 1-10,text,TRUE,,10857,150,2,2,http://www.healthcare.knektz.com/templates/about.html,270,0,0
+1.73377E+12,296,QA,200,OK,Thread Group 1-10,text,TRUE,,11773,155,2,2,http://www.qa.knektz.com/templates/qa-student-program.html,296,0,0
+1.73377E+12,686,Knektz,200,OK,Thread Group 1-5,text,TRUE,,9382,238,1,1,https://www.knektz.com/,268,0,0
+1.73377E+12,268,Knektz-0,301,Moved Permanently,Thread Group 1-5,text,TRUE,,1022,119,1,1,http://www.knektz.com/,268,0,0
+1.73377E+12,418,Knektz-1,200,OK,Thread Group 1-5,text,TRUE,,8360,119,1,1,https://www.knektz.com/,414,0,0
+1.73377E+12,349,Healthcare,200,OK,Thread Group 1-5,text,TRUE,,10857,150,1,1,http://www.healthcare.knektz.com/templates/about.html,348,0,0
+1.73377E+12,329,QA,200,OK,Thread Group 1-5,text,TRUE,,11773,155,1,1,http://www.qa.knektz.com/templates/qa-student-program.html,329,0,0
+1.73377E+12,614,Knektz,200,OK,Thread Group 1-5,text,TRUE,,9382,238,1,1,https://www.knektz.com/,311,0,0
+1.73377E+12,311,Knektz-0,301,Moved Permanently,Thread Group 1-5,text,TRUE,,1022,119,1,1,http://www.knektz.com/,311,0,0
+1.73377E+12,302,Knektz-1,200,OK,Thread Group 1-5,text,TRUE,,8360,119,1,1,https://www.knektz.com/,301,0,0
+1.73377E+12,312,Healthcare,200,OK,Thread Group 1-5,text,TRUE,,10857,150,1,1,http://www.healthcare.knektz.com/templates/about.html,312,0,0
+1.73377E+12,687,QA,200,OK,Thread Group 1-5,text,TRUE,,11773,155,1,1,http://www.qa.knektz.com/templates/qa-student-program.html,687,0,0
+1.73377E+12,618,Knektz,200,OK,Thread Group 1-5,text,TRUE,,9382,238,1,1,https://www.knektz.com/,303,0,0
+1.73377E+12,303,Knektz-0,301,Moved Permanently,Thread Group 1-5,text,TRUE,,1022,119,1,1,http://www.knektz.com/,303,0,0
+1.73377E+12,315,Knektz-1,200,OK,Thread Group 1-5,text,TRUE,,8360,119,1,1,https://www.knektz.com/,312,0,0
+1.73377E+12,290,Healthcare,200,OK,Thread Group 1-5,text,TRUE,,10857,150,1,1,http://www.healthcare.knektz.com/templates/about.html,290,0,0
+1.73377E+12,919,QA,200,OK,Thread Group 1-5,text,TRUE,,11773,155,1,1,http://www.qa.knektz.com/templates/qa-student-program.html,919,0,0
